@@ -4,7 +4,7 @@ Arrays klasörü içindeki Array 1 klasörü içinde array içinde yer alacak st
 
 For döngüsü ile array içindeki indislere atanan değerleri tarama işlemi yapıyoruz. Tarama işlem sonucunda indislere atanan değerleri yazdırıyoruz.
 
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Arrays klasörü içindeki Array 2 klasörü içinde array içinde yer alacak double tipi verileri arraylist içinde ondalıklı sayıları tanımlıyoruz. Oluşturulan Arrayin içindeki indislere atanan değerlerin toplamının atancağı değişkeni oluşturuyoruz.
 
