@@ -34,3 +34,9 @@ Variables Klasörü içinde number2 değişkenine int tipinde değer ataması ya
 Variables Klasörü içinde number2 değişkenine atanan değeri number1 değişkenine atama yapıyoruz.
 number2 değişkenine farklı bir değer ataması yapıyoruz.
 number1 değişkenine atanan değeri yazdırıyoruz.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Method Overloading klasörü içinde yer alan FourOperations dosyası içinde 2 farklı total fonksiyonu tanımlıyoruz. Fonksiyonlardan bir tanesi girilen 2 tane int tipinde değeri toplama işlemi yapıyor. Diğeri girilen 3 tane int tipinde değeri toplama işlemi yapıyor. Bu fonksiyonları kullanılırken (eclipse editörü kullanılarak) fonksiyon yazılma aşamasında çıkan ekrandan kullanılacak fonksiyonun kaç parametreli olacağını seçebiliriz.
+
+Main dosyası içinde FourOperations dosyasında yer alan total fonksiyonlarının kullanılması için obje oluşturuyoruz. Oluşturulan obje üzerinden FourOperations dosyasında yer alan total fonksiyonlarına ulaşıyoruz. Ulaşılan fonksiyonlardan gereken parametreli fonksiyonu seçiyoruz ve parametre veriyoruz.
