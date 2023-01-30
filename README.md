@@ -16,3 +16,13 @@ For döngüsü içinde aynı zamanda if döngüsünü kullanarak array içindeki
 Arrays klasörü içindeki Array 3 klasörü içinde array içinde yer alacak string tipi verileri arraylist içinde 3x3 matris olarak tanımlıyoruz. Oluşturulan Arrayin içindeki matriste yer alan indislere atanan değerleri tanımlıyoruz.
 
 İç içe For döngüsü ile array içindeki indislere atanan değerleri tarama işlemi yapıyoruz. Tarama işlem sonucunda indislere atanan değerlerin yazdırıyoruz.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Conditional Bloks Klasörü içindeki if - Elseif - Else blok içinde dolar değerinin günlük olarak yükselme ve düşme durumunu gösteren fotoğraf görüntüleme işlemidir. 
+
+if blok içinde dolar düşme sembolünün fotoğrafı gösterilecek.
+
+Else if blok içinde dolar yükselme sembolünün fotoğrafı gösterilecek.
+
+Else blok içinde dolar sabit sembolünün fotoğrafı gösterilecek.
