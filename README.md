@@ -26,3 +26,11 @@ if blok içinde dolar düşme sembolünün fotoğrafı gösterilecek.
 Else if blok içinde dolar yükselme sembolünün fotoğrafı gösterilecek.
 
 Else blok içinde dolar sabit sembolünün fotoğrafı gösterilecek.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Variables Klasörü içinde number1 değişkenine int tipinde değer ataması yapıyoruz.
+Variables Klasörü içinde number2 değişkenine int tipinde değer ataması yapıyoruz.
+Variables Klasörü içinde number2 değişkenine atanan değeri number1 değişkenine atama yapıyoruz.
+number2 değişkenine farklı bir değer ataması yapıyoruz.
+number1 değişkenine atanan değeri yazdırıyoruz.
