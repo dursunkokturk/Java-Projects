@@ -45,18 +45,10 @@ number1 değişkenine atanan değeri yazdırıyoruz.
 
 Loops Klasörü içindeki Loop 1 Klasörü içinde String tipi datalarin olduğu Array içinde yer alan dataları for döngüsü ile array in atandığı değişken adı üzerinden tarama işlemi yapıyoruz. Tarama işlem sonucunu for döngüsü içinde yazdırma işlemi yapıyoruz.
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 Loops Klasörü içindeki Loop 2 Klasörü içinde String tipi datalarin olduğu Array içinde yer alan dataları for döngüsü ile indis numaraları üzerinden tarama işlemi yapıyoruz. Tarama işlem sonucunu for döngüsü içinde yazdırma işlemi yapıyoruz.
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Loops Klasörü içindeki Switch Case klasörü içinde Character tipi data ya göre işlemin sonucunu gösteriyoruz. Örneğin öğrencinin aldığı harfli nota göre sınıf geçme durumunu gösterebiliriz.
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 Loops Klasörü içindeki While klasörü içinde while döngüsü içinde int tipi datanın belirtilen şarta uygunluk durumunu kontrol ediyoruz. Kontrol işleminden sonra şart sağlanmıyorsa şart sağlanıncaya kadar belirtilen işlemi yapıyoruz.
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Loops Klasörü içindeki Do-While Klasörü içinde do döngüsü içinde ilk olarak işlem sonucunu yazdırıyoruz. Sonra While döngüsü içinde yapılacak işlemde şart kontrolü yapıyoruz. Bu döngü server bağlantısı yapılma aşamasında tercih edilebilir.
