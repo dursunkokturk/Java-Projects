@@ -52,3 +52,23 @@ Loops Klasörü içindeki Switch Case klasörü içinde Character tipi data ya g
 Loops Klasörü içindeki While klasörü içinde while döngüsü içinde int tipi datanın belirtilen şarta uygunluk durumunu kontrol ediyoruz. Kontrol işleminden sonra şart sağlanmıyorsa şart sağlanıncaya kadar belirtilen işlemi yapıyoruz.
 
 Loops Klasörü içindeki Do-While Klasörü içinde do döngüsü içinde ilk olarak işlem sonucunu yazdırıyoruz. Sonra While döngüsü içinde yapılacak işlemde şart kontrolü yapıyoruz. Bu döngü server bağlantısı yapılma aşamasında tercih edilebilir.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Encapsulation Get Set Klasörü içinde 
+
+Product dosyası içindeki Product class içinde kullanılacak özelliklerin tanımlanması işleminden sonnra Set fonksiyonları ile Data alınma işlemlerini yapıyoruz. Get fonksiyonları ile alınan Data ları kullanarak işlemleri yapıyoruz.
+
+ProductManager dosyası içindeki ProductManager class içinde yapılacak işlemin fonksiyonunu ve işlemin nasıl yapılacağını belirtiyoruz.
+
+Main dosyası içinde Product objesi üzerinden obje içinde tanımlanan özelliklere Set fonksiyonlarını kullanarak data atama işlemi yapıyoruz. ProductManager objesi üzerinden ProductManager class içinde tanımlanan fonksiyonu çağırıyoruz ve yapılacak işlemi fonksiyon içinde parametre olarak veriyoruz.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Field Attribute klasörü içinde 
+
+Product dosyası içindeki Product class içinde kullanılacak özelliklerin tanımlanması işlemini yapıyoruz.
+
+ProductManager dosyası içindeki ProductManager class içinde yapılacak işlemin fonksiyonunu ve işlemin nasıl yapılacağını belirtiyoruz.
+
+Main dosyası içinde Product objesi üzerinden obje içinde tanımlanan özelliklere özellik adlarını kullanarak data atama işlemi yapıyoruz. ProductManager objesi üzerinden ProductManager class içinde tanımlanan fonksiyonu çağırıyoruz ve yapılacak işlemi fonksiyon içinde parametre olarak veriyoruz.
